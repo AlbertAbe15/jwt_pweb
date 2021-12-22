@@ -1,7 +1,7 @@
 <?php
 
     class DbConnect {
-        private $server = "sql6.freesqldatabase.com"
+        private $server = "sql6.freesqldatabase.com";
         private $dbname = 'sql6460553';
         private $user = 'sql6460553';
         private $pass = 'eRUmkwXs1c';
